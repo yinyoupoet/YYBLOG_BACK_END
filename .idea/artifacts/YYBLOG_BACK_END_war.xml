@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="YYBLOG_BACK_END:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="YYBlog.war">
+      <element id="artifact" artifact-name="YYBLOG_BACK_END:war exploded" />
+    </root>
+  </artifact>
+</component>

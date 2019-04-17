@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="YYBLOG_BACK_END:war exploded">
+    <output-path>$PROJECT_DIR$/target/YYBlog</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="YYBLOG_BACK_END" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/target/YYBlog/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="YYBLOG_BACK_END/web/Web" />
+    </root>
+  </artifact>
+</component>
